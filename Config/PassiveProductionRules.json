@@ -407,7 +407,7 @@
             ]
         },
         {
-            "dinoType": "/Game::Ankylo_Character_BP",
+            "dinoType": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP",
             "chanceToProduce": 1,
             "produces": [
                 {
@@ -431,7 +431,7 @@
             ]
         },
         {
-            "dinoType": "/Game::Megalodon_Character_BP",
+            "dinoType": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP",
             "chanceToProduce": 1,
             "produces": [
                 {
@@ -439,7 +439,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'\"",
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 1,
