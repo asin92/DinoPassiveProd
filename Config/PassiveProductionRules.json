@@ -405,6 +405,30 @@
                     ]
                 }
             ]
+        },
+        {
+            "dinoType": "/DraconicChronicles::CrystalWyvern_Character_BP_Blood1",
+            "chanceToProduce": 1,
+            "produces": [
+                {
+                    "intervalSeconds": 60,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'\"",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
